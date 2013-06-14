@@ -1,0 +1,5 @@
+{
+  "name": "backbone-tastypie",
+  "version": "0.2.0",
+  "main": "backbone_tastypie/static/js/backbone-tastypie.js"
+}
