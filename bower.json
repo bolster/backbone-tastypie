@@ -3,6 +3,6 @@
   "version": "0.2.0",
   "main": "backbone_tastypie/static/js/backbone-tastypie.js",
   "dependencies": {
-    "backbone": ">= 1.0"
+    "backbone": ">= 1.0.0"
   }
 }
