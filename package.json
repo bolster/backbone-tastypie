@@ -1,0 +1,16 @@
+{
+  "name": "backbone-tastypie",
+  "version": "0.2.0",
+  "description": "A small conversion layer to make [backbone.js](https://github.com/documentcloud/backbone) work together happily with [django-tastypie](https://github.com/toastdriven/django-tastypie). Other REST APIs conforming to the same style are also compatible. See for example [TastyMongo](https://github.com/ProgressiveCompany/TastyMongo).",
+  "main": "backbone_tastypie/static/js/backbone-tastypie.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bolster/backbone-tastypie.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bolster/backbone-tastypie/issues"
+  },
+  "homepage": "https://github.com/bolster/backbone-tastypie"
+}
